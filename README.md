@@ -12,8 +12,8 @@ Estudio programación en **[42 Madrid](https://www.42madrid.com/)** para aplicar
 
 ### En tecnología
 - 🎓 42 Madrid (Fundación Telefónica): Common Core, 2026 – 2028.
-- 🛠️ C · Shell · Git · Linux
-- 💡 Me interesa: previsión de stock, análisis de ventas y planificación de turnos con datos e IA.
+- 🛠️ C · Shell · Python · Git · Linux
+- 💡 Me interesa: previsión de stock, análisis de ventas y planificación comercial con datos e IA.
 - 🌱 Ingeniero geólogo: antes de retail, modelos 3D y análisis de datos en PDVSA (Venezuela).
 
 ### Contacto
