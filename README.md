@@ -6,7 +6,7 @@ Estudio programación en **[42 Madrid](https://www.42madrid.com/)** para aplicar
 ### En retail
 - Abrí la tienda **H&M Mall Plaza Norte** como Commercial Manager (Santiago, Chile, 2019).
 - Campañas omnicanal en IKEA Chile que contribuyeron a **+68 % en ventas online** y **+46 % en margen bruto** en 18 meses.
-- Formé parte del equipo que abrió la **primera IKEA de Sudamérica** (Santiago, Chile, 2022).
+- Formé parte del equipo que abrió la **primera tienda IKEA de Sudamérica** (Santiago, Chile, 2022).
 - **Subdirector de tienda** oficial adidas (2024) y **Sales Specialist** en Apple Puerta del Sol, la tienda insignia de Apple en España (2025).
 - Equipos de más de 15 personas, ventas, stock y KPIs: conversión, ticket medio y UPT.
 
