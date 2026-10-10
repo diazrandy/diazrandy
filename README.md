@@ -1,12 +1,13 @@
 # Hola, soy Randy Díaz 👋
 
-Profesional de **retail de moda** en Madrid, con casi 10 años en **Zara, H&M, IKEA, adidas y Apple**.
+Profesional de **retail de moda** en Madrid, con más de 10 años en **Zara, H&M, IKEA, adidas y Apple**.
 Estudio programación en **[42 Madrid](https://www.42madrid.com/)** para aplicar datos, tecnología e IA a la gestión de tiendas.
 
 ### En retail
 - Abrí la tienda **H&M Mall Plaza Norte** como Commercial Manager (Santiago, Chile, 2019).
+- Campañas omnicanal en IKEA Chile que contribuyeron a **+68 % en ventas online** y **+46 % en margen bruto** en 18 meses.
 - Formé parte del equipo que abrió la **primera IKEA de Sudamérica** (Santiago, Chile, 2022).
-- **Subdirector de tienda** oficial adidas (2024) y **Sales Specialist** en Apple Puerta del Sol, Madrid (2025).
+- **Subdirector de tienda** oficial adidas (2024) y **Sales Specialist** en Apple Puerta del Sol, la tienda insignia de Apple en España (2025).
 - Equipos de más de 15 personas, ventas, stock y KPIs: conversión, ticket medio y UPT.
 
 ### En tecnología
@@ -21,4 +22,4 @@ Estudio programación en **[42 Madrid](https://www.42madrid.com/)** para aplicar
 
 ---
 
-<sub>🇬🇧 Fashion retail professional in Madrid (Zara, H&M, IKEA, adidas, Apple). Learning to code at 42 Madrid to apply data and AI to store management.</sub>
+<sub>🇬🇧 Fashion retail professional in Madrid with 10+ years at Zara, H&M, IKEA, adidas and Apple. Learning to code at 42 Madrid to apply data and AI to store management.</sub>
