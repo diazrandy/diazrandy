@@ -22,4 +22,4 @@ Estudio programación en **[42 Madrid](https://www.42madrid.com/)** para aplicar
 
 ---
 
-<sub>🇬🇧 Fashion retail professional in Madrid with 10+ years at Zara, H&M, IKEA, adidas and Apple. Learning to code at 42 Madrid to apply data and AI to store management.</sub>
+<sub>🇬🇧 Retail operations professional in Madrid with 10+ years at Zara, H&M, IKEA, adidas and Apple. Learning to code at 42 Madrid to apply data and AI to commercial management and operations.</sub>
