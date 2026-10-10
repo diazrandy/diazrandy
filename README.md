@@ -8,7 +8,7 @@ Estudio programación en **[42 Madrid](https://www.42madrid.com/)** para aplicar
 - Campañas omnicanal en IKEA Chile que contribuyeron a **+68 % en ventas online** y **+46 % en margen bruto** en 18 meses.
 - Formé parte del equipo que abrió la **primera tienda IKEA de Sudamérica** (Santiago, Chile, 2022).
 - **Subdirector de tienda** oficial adidas (2024) y **Sales Specialist** en Apple Puerta del Sol, la tienda insignia de Apple en España (2025).
-- Equipos de más de 15 personas, ventas, stock y KPIs: conversión, ticket medio y UPT.
+- Equipos de más de 15 personas, ventas, stock y KPIs: conversión, rentabilidad, ticket medio y UPT.
 
 ### En tecnología
 - 🎓 42 Madrid (Fundación Telefónica): Common Core, 2026 – 2028.
