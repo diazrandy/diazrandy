@@ -1,6 +1,6 @@
 # Hola, soy Randy Díaz 👋
 
-Profesional de **retail operations** en Madrid, con más de 10 años en **Zara, H&M, IKEA, adidas y Apple**.
+Profesional de **retail operations** en Madrid, con más de 10 años de experiencia en **Zara, H&M, IKEA, adidas y Apple**.
 Estudio programación en **[42 Madrid](https://www.42madrid.com/)** para aplicar datos, tecnología e IA a la gestión de operaciones.
 
 ### En retail
