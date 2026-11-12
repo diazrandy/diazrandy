@@ -1,8 +1,8 @@
 # Hola, soy Randy Díaz 👋
 
-> **De analizar yacimientos a dirigir tiendas, y ahora a aprender a programar. Siempre me ha tocado decidir con datos incompletos; en 42 Madrid construyo las herramientas para hacerlo mejor.
+> De analizar yacimientos a dirigir tiendas, y ahora a aprender a programar. Siempre me ha tocado decidir con datos incompletos; en 42 Madrid construyo las herramientas para hacerlo mejor.
 > 
-> From analyzing reservoirs to running stores, and now learning to code. I've always had to decide with incomplete data; at 42 Madrid I'm building the tools to do it better.**
+> From analyzing reservoirs to running stores, and now learning to code. I've always had to decide with incomplete data; at 42 Madrid I'm building the tools to do it better.
 
 <details open>
 <summary><b>🇪🇸 Español</b></summary>
