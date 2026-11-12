@@ -1,6 +1,6 @@
 # Hola, soy Randy Díaz 👋
 
-> **Leo datos incompletos, decido bajo presión y ahora aprendo a construir las herramientas para hacerlo mejor.**
+> **De analizar yacimientos a dirigir tiendas, y ahora a aprender a programar. Siempre me ha tocado decidir con datos incompletos; en 42 Madrid construyo las herramientas para hacerlo mejor.**
 
 <details open>
 <summary><b>🇪🇸 Español</b></summary>
